@@ -3,7 +3,7 @@ package factory;
 
 /**
  *
- * @author Fernando Moreira
+ * @author Guilherme
  */
 import java.sql.*;
 
